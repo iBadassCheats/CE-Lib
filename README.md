@@ -1,6 +1,9 @@
 # Cheat Engine Lib
 Execute per DLL Lua Scripts.
 
+# Cheat Engine Version
+7.5
+
 # Examples (Soon more Code)
 C# Code
 ```c#
